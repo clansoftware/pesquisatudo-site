@@ -1,0 +1,14 @@
+{
+    "name": "PesquisaTudo",
+    "description": "Site para consumo da API de Penta Pesquisa na WEB",
+    "authors": [
+        {
+            "name": "Santos L. Victor",
+            "email": "victor.santos@clansoftware.com.br"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "4.0.0",
+        "components/jquery": "3.2.1"
+    }
+}
